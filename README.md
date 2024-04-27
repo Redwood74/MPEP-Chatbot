@@ -11,3 +11,6 @@ find CfT version that will work with your version chromedriver
 https://github.com/GoogleChromeLabs/chrome-for-testing#json-api-endpoints
 
 run rdms_selenium_scraper.ipynb
+
+run html_to_json_bs4parser.ipynb
+this creates a giant single json file
